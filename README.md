@@ -1,1 +1,1 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Gakkun89&count_private=true&theme=tokyonight)
+[Click here for my ramblings](https://gakkun89.github.io)
